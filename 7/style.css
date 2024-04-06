@@ -1,0 +1,25 @@
+.container {
+
+}
+
+header{
+    display: flex;
+    background-color: rgb(199, 199, 199);
+    border-radius: 20px;
+    justify-content: space-between;
+    max-width: 780px;
+    margin: auto
+}
+ul { 
+    list-style-type: none;
+    display: flex;
+    padding: 30PX;
+    margin-right: 70px;
+}
+
+.items{
+    margin-right: 50px;
+    font-size: 16px;
+    padding: 0 25px;
+    text-align: center;
+}
